@@ -1,8 +1,7 @@
 <h1 align="center">Trading with Momentum</h1>
 <div align="center">
-<a href="https://zzetao.github.io/awesome-github-profile/"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alshodiev/Trading-with-Momentum?color=Green&label=Contributors&style=flat-square">  <img alt="GitHub forks" src="https://img.shields.io/github/forks/alshodiev/Trading-with-Momentum?color=Green&style=plastic&label=Forks"> <img  alt="Github open issues" src="https://img.shields.io/bitbucket/issues/alshodiev/Trading-with-Momentum?color=Yellow&style=flat-square&label=Issues">
-<img  alt="MIT License" src="https://img.shields.io/badge/License-MIT-green.svg">
-</a><br>
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alshodiev/Trading-with-Momentum?color=Green&label=Contributors&style=flat-square">  <img alt="GitHub forks" src="https://img.shields.io/github/forks/alshodiev/Trading-with-Momentum?color=Green&style=plastic&label=Forks"> <img  alt="Github open issues" src="https://img.shields.io/bitbucket/issues/alshodiev/Trading-with-Momentum?color=Yellow&style=flat-square&label=Issues">
+<img  alt="MIT License" src="https://img.shields.io/badge/License-MIT-green.svg"><br>
   </div>
 
 <!-- 
