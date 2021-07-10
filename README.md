@@ -60,7 +60,7 @@ PROJECT LOGO
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project where I used financial data to generate a trading signal and tested the approach using a statistical test such as  T-test. The result was compared to a certain alpha factor and made a decision whether the returns from this strategy would be profitable. 
+This is a project where I used financial data to generate a trading signal and tested the approach using a statistical test called T-test. The result was compared to a certain alpha factor which made a decision whether the returns from this strategy would be profitable or not to keep employing.
 
 <!--`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`-->
 
